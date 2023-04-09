@@ -1,2 +1,2 @@
-# Data_Struct_To_C
+# Data_Struct
 Stack, Queue, Tree, Graph...
